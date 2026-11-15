@@ -1,0 +1,1900 @@
+fileFormatVersion: 2
+guid: eae6cd0bef7207f44a8d753c50ac1ce9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -363966570876490821
+    second: Adrian Animation Sheet_0
+  - first:
+      213: 1803626117500573601
+    second: Adrian Animation Sheet_1
+  - first:
+      213: -7979742202427296489
+    second: Adrian Animation Sheet_2
+  - first:
+      213: 350163319977033076
+    second: Adrian Animation Sheet_3
+  - first:
+      213: -4915426973434697935
+    second: Adrian Animation Sheet_4
+  - first:
+      213: 7561284160687487784
+    second: Adrian Animation Sheet_5
+  - first:
+      213: 3736740851920523606
+    second: Adrian Animation Sheet_6
+  - first:
+      213: 4864621453185529399
+    second: Adrian Animation Sheet_7
+  - first:
+      213: -8603308721128982293
+    second: Adrian Animation Sheet_8
+  - first:
+      213: 6895832428042060798
+    second: Adrian Animation Sheet_9
+  - first:
+      213: -1073457574809428617
+    second: Adrian Animation Sheet_10
+  - first:
+      213: -3931000936087628154
+    second: Adrian Animation Sheet_11
+  - first:
+      213: -1647576351285744756
+    second: Adrian Animation Sheet_12
+  - first:
+      213: 8410638852543762813
+    second: Adrian Animation Sheet_13
+  - first:
+      213: -636560724874668540
+    second: Adrian Animation Sheet_14
+  - first:
+      213: -7413741056629567927
+    second: Adrian Animation Sheet_15
+  - first:
+      213: -7924861423542635323
+    second: Adrian Animation Sheet_16
+  - first:
+      213: 8260403860989873249
+    second: Adrian Animation Sheet_17
+  - first:
+      213: 6819482615683664770
+    second: Adrian Animation Sheet_18
+  - first:
+      213: 7851584949252511883
+    second: Adrian Animation Sheet_19
+  - first:
+      213: 1299189281974518578
+    second: Adrian Animation Sheet_20
+  - first:
+      213: -448423334316550773
+    second: Adrian Animation Sheet_21
+  - first:
+      213: -6857748695030417745
+    second: Adrian Animation Sheet_22
+  - first:
+      213: 8698406182216648370
+    second: Adrian Animation Sheet_23
+  - first:
+      213: 6687691616222212990
+    second: Adrian Animation Sheet_24
+  - first:
+      213: 2502758030008704847
+    second: Adrian Animation Sheet_25
+  - first:
+      213: 170933428876428670
+    second: Adrian Animation Sheet_26
+  - first:
+      213: -3720349556680275478
+    second: Adrian Animation Sheet_27
+  - first:
+      213: -2616910292249588933
+    second: Adrian Animation Sheet_28
+  - first:
+      213: -3869166685801703354
+    second: Adrian Animation Sheet_29
+  - first:
+      213: -5620925975915813963
+    second: Adrian Animation Sheet_30
+  - first:
+      213: -3264518501448240190
+    second: Adrian Animation Sheet_31
+  - first:
+      213: -5484671261102022865
+    second: Adrian Animation Sheet_32
+  - first:
+      213: -381528955561641917
+    second: Adrian Animation Sheet_33
+  - first:
+      213: -8282005505981176311
+    second: Adrian Animation Sheet_34
+  - first:
+      213: 6680241089560260270
+    second: Adrian Animation Sheet_35
+  - first:
+      213: -5305520753395332487
+    second: Adrian Animation Sheet_36
+  - first:
+      213: 5042634167456527907
+    second: Adrian Animation Sheet_37
+  - first:
+      213: -7970247216840421792
+    second: Adrian Animation Sheet_38
+  - first:
+      213: 5884002272176931887
+    second: Adrian Animation Sheet_39
+  - first:
+      213: 876076538992423248
+    second: Adrian Animation Sheet_40
+  - first:
+      213: -2145609776448094009
+    second: Adrian Animation Sheet_41
+  - first:
+      213: 3852604580680250108
+    second: Adrian Animation Sheet_42
+  - first:
+      213: 4571830541762763501
+    second: Adrian Animation Sheet_43
+  - first:
+      213: -9014586271365523142
+    second: Adrian Animation Sheet_44
+  - first:
+      213: -7350230260282556328
+    second: Adrian Animation Sheet_45
+  - first:
+      213: 4857292155559896838
+    second: Adrian Animation Sheet_46
+  - first:
+      213: 1165775323769383029
+    second: Adrian Animation Sheet_47
+  - first:
+      213: -3542870197980343447
+    second: Adrian Animation Sheet_48
+  - first:
+      213: 1436314328394119332
+    second: Adrian Animation Sheet_49
+  - first:
+      213: -3782587375943797726
+    second: Adrian Animation Sheet_50
+  - first:
+      213: -8111835862066273840
+    second: Adrian Animation Sheet_51
+  - first:
+      213: -2414432032355070667
+    second: Adrian Animation Sheet_52
+  - first:
+      213: -1156872099529043463
+    second: Adrian Animation Sheet_53
+  - first:
+      213: 2353616701453613333
+    second: Adrian Animation Sheet_54
+  - first:
+      213: 3923682317484731162
+    second: Adrian Animation Sheet_55
+  - first:
+      213: -2897667650709671547
+    second: Adrian Animation Sheet_56
+  - first:
+      213: 8647033539945260402
+    second: Adrian Animation Sheet_57
+  - first:
+      213: -7207428208051049237
+    second: Adrian Animation Sheet_58
+  - first:
+      213: -5101339135613784446
+    second: Adrian Animation Sheet_59
+  - first:
+      213: -3422920238839025230
+    second: Adrian Animation Sheet_60
+  - first:
+      213: 3468410035732735615
+    second: Adrian Animation Sheet_61
+  - first:
+      213: -3981691443214456873
+    second: Adrian Animation Sheet_62
+  - first:
+      213: 7035966638990238513
+    second: Adrian Animation Sheet_63
+  - first:
+      213: 8114834696011811325
+    second: Adrian Animation Sheet_64
+  - first:
+      213: 4984411572826710459
+    second: Adrian Animation Sheet_65
+  - first:
+      213: 4312661750249797253
+    second: Adrian Animation Sheet_66
+  - first:
+      213: -1643959587407483233
+    second: Adrian Animation Sheet_67
+  - first:
+      213: -2410241742149908540
+    second: Adrian Animation Sheet_68
+  - first:
+      213: 3107455329916536148
+    second: Adrian Animation Sheet_69
+  - first:
+      213: 7253662950322216715
+    second: Adrian Animation Sheet_70
+  - first:
+      213: -3230801831969897617
+    second: Adrian Animation Sheet_71
+  - first:
+      213: 2648013675336005590
+    second: Adrian Animation Sheet_72
+  - first:
+      213: -8498621798405755576
+    second: Adrian Animation Sheet_73
+  - first:
+      213: -4030719127570432495
+    second: Adrian Animation Sheet_74
+  - first:
+      213: 4904341353505165420
+    second: Adrian Animation Sheet_75
+  - first:
+      213: 8514155099325387584
+    second: Adrian Animation Sheet_76
+  - first:
+      213: -5345932981620466545
+    second: Adrian Animation Sheet_77
+  - first:
+      213: -4693282180746417994
+    second: Adrian Animation Sheet_78
+  - first:
+      213: 591707610598469266
+    second: Adrian Animation Sheet_79
+  - first:
+      213: -9035419450751170330
+    second: Adrian Animation Sheet_80
+  - first:
+      213: 5673589981800205043
+    second: Adrian Animation Sheet_81
+  - first:
+      213: -8388994631374668521
+    second: Adrian Animation Sheet_82
+  - first:
+      213: -5732651961005212888
+    second: Adrian Animation Sheet_83
+  - first:
+      213: -8391595007477526958
+    second: Adrian Animation Sheet_84
+  - first:
+      213: 5586832723750349868
+    second: Adrian Animation Sheet_85
+  - first:
+      213: 287438539856713635
+    second: Adrian Animation Sheet_86
+  - first:
+      213: -1406603503119351846
+    second: Adrian Animation Sheet_87
+  - first:
+      213: -8277791776569303175
+    second: Adrian Animation Sheet_88
+  - first:
+      213: 8314976532511284593
+    second: Adrian Animation Sheet_89
+  - first:
+      213: 3103448837713389740
+    second: Adrian Animation Sheet_90
+  - first:
+      213: -4477355522631363334
+    second: Adrian Animation Sheet_91
+  - first:
+      213: 7698937616118004395
+    second: Adrian Animation Sheet_92
+  - first:
+      213: 3989109540494268048
+    second: Adrian Animation Sheet_93
+  - first:
+      213: 8101505008006062525
+    second: Adrian Animation Sheet_94
+  - first:
+      213: -1249123840382964445
+    second: Adrian Animation Sheet_95
+  - first:
+      213: 455382157330908134
+    second: Adrian Animation Sheet_96
+  - first:
+      213: 5277513380839086843
+    second: Adrian Animation Sheet_97
+  - first:
+      213: -3073648026465276424
+    second: Adrian Animation Sheet_98
+  - first:
+      213: -2596838750100233612
+    second: Adrian Animation Sheet_99
+  - first:
+      213: 241313200211949347
+    second: Adrian Animation Sheet_100
+  - first:
+      213: -7885992384793749740
+    second: Adrian Animation Sheet_101
+  - first:
+      213: 8862591878851647145
+    second: Adrian Animation Sheet_102
+  - first:
+      213: 6825492872525179326
+    second: Adrian Animation Sheet_103
+  - first:
+      213: 2069049069170748674
+    second: Adrian Animation Sheet_104
+  - first:
+      213: 1528213422023042719
+    second: Adrian Animation Sheet_105
+  - first:
+      213: -2704789234919807868
+    second: Adrian Animation Sheet_106
+  - first:
+      213: -733086069946695895
+    second: Adrian Animation Sheet_107
+  - first:
+      213: 3335429896864406438
+    second: Adrian Animation Sheet_108
+  - first:
+      213: -5622887087719844253
+    second: Adrian Animation Sheet_109
+  - first:
+      213: 4495354086268764472
+    second: Adrian Animation Sheet_110
+  - first:
+      213: -1074793157171307872
+    second: Adrian Animation Sheet_111
+  - first:
+      213: -4860263016492208613
+    second: Adrian Animation Sheet_112
+  - first:
+      213: 1528063296402393814
+    second: Adrian Animation Sheet_113
+  - first:
+      213: 4745750403668926240
+    second: Adrian Animation Sheet_114
+  - first:
+      213: 5611371165392353966
+    second: Adrian Animation Sheet_115
+  - first:
+      213: -5050934399605681056
+    second: Adrian Animation Sheet_116
+  - first:
+      213: -1056091936346889933
+    second: Adrian Animation Sheet_117
+  - first:
+      213: 6877574752588236355
+    second: Adrian Animation Sheet_118
+  - first:
+      213: 1097972718950060224
+    second: Adrian Animation Sheet_119
+  - first:
+      213: 2466412330373198886
+    second: Adrian Animation Sheet_120
+  - first:
+      213: -7043536310006973175
+    second: Adrian Animation Sheet_121
+  - first:
+      213: 3187693530722051247
+    second: Adrian Animation Sheet_122
+  - first:
+      213: -1747794714978439108
+    second: Adrian Animation Sheet_123
+  - first:
+      213: 5703505594474346959
+    second: Adrian Animation Sheet_124
+  - first:
+      213: -7576194848558220978
+    second: Adrian Animation Sheet_125
+  - first:
+      213: -105970630934927708
+    second: Adrian Animation Sheet_126
+  - first:
+      213: 8428427837273670598
+    second: Adrian Animation Sheet_127
+  - first:
+      213: -8294274047786334300
+    second: Adrian Animation Sheet_128
+  - first:
+      213: 8551781328874617245
+    second: Adrian Animation Sheet_129
+  - first:
+      213: -4852527224140390968
+    second: Adrian Animation Sheet_130
+  - first:
+      213: 8925857237278941550
+    second: Adrian Animation Sheet_131
+  - first:
+      213: -4823233602784423463
+    second: Adrian Animation Sheet_132
+  - first:
+      213: 4487817192686838348
+    second: Adrian Animation Sheet_133
+  - first:
+      213: 5084574333981190463
+    second: Adrian Animation Sheet_134
+  - first:
+      213: -742142786551638165
+    second: Adrian Animation Sheet_135
+  - first:
+      213: -8345693855611308219
+    second: Adrian Animation Sheet_136
+  - first:
+      213: -899831346514520352
+    second: Adrian Animation Sheet_137
+  - first:
+      213: -7593937150112745768
+    second: Adrian Animation Sheet_138
+  - first:
+      213: 4888388642249000716
+    second: Adrian Animation Sheet_139
+  - first:
+      213: 7351034742248496526
+    second: Adrian Animation Sheet_140
+  - first:
+      213: 3747952667756769291
+    second: Adrian Animation Sheet_141
+  - first:
+      213: -4838947045918215341
+    second: Adrian Animation Sheet_142
+  - first:
+      213: -246404802495883119
+    second: Adrian Animation Sheet_143
+  - first:
+      213: -5867577638991925385
+    second: Adrian Animation Sheet_144
+  - first:
+      213: -1172971932700595556
+    second: Adrian Animation Sheet_145
+  - first:
+      213: -1738914518318987988
+    second: Adrian Animation Sheet_146
+  - first:
+      213: 4550981177694261699
+    second: Adrian Animation Sheet_147
+  - first:
+      213: 7973517284001851139
+    second: Adrian Animation Sheet_148
+  - first:
+      213: 154556881421566375
+    second: Adrian Animation Sheet_149
+  - first:
+      213: -2534735778341084316
+    second: Adrian Animation Sheet_150
+  - first:
+      213: -6065939328779551842
+    second: Adrian Animation Sheet_151
+  - first:
+      213: -3192848076498619234
+    second: Adrian Animation Sheet_152
+  - first:
+      213: -6955922617023144145
+    second: Adrian Animation Sheet_153
+  - first:
+      213: 3277083194843739727
+    second: Adrian Animation Sheet_154
+  - first:
+      213: -5986808277404305724
+    second: Adrian Animation Sheet_155
+  - first:
+      213: -9185049577365100878
+    second: Adrian Animation Sheet_156
+  - first:
+      213: -7468524755112094749
+    second: Adrian Animation Sheet_157
+  - first:
+      213: -5442910962499621911
+    second: Adrian Animation Sheet_158
+  - first:
+      213: 5558302544362718298
+    second: Adrian Animation Sheet_159
+  - first:
+      213: -9139671099264059535
+    second: Adrian Animation Sheet_160
+  - first:
+      213: -5210428673208937272
+    second: Adrian Animation Sheet_161
+  - first:
+      213: 5072229746144838513
+    second: Adrian Animation Sheet_162
+  - first:
+      213: -7153334992016678147
+    second: Adrian Animation Sheet_163
+  - first:
+      213: 1040246692005580598
+    second: Adrian Animation Sheet_164
+  - first:
+      213: -850447024927586936
+    second: Adrian Animation Sheet_165
+  - first:
+      213: 6064434687794751950
+    second: Adrian Animation Sheet_166
+  - first:
+      213: -542260317376685817
+    second: Adrian Animation Sheet_167
+  - first:
+      213: 945058834708677379
+    second: Adrian Animation Sheet_168
+  - first:
+      213: 1153333359395939554
+    second: Adrian Animation Sheet_169
+  - first:
+      213: -4306276636162164040
+    second: Adrian Animation Sheet_170
+  - first:
+      213: -2361090127265035785
+    second: Adrian Animation Sheet_171
+  - first:
+      213: 1980825088258213766
+    second: Adrian Animation Sheet_172
+  - first:
+      213: 2723591596713495744
+    second: Adrian Animation Sheet_173
+  - first:
+      213: -7804182798495171342
+    second: Adrian Animation Sheet_174
+  - first:
+      213: 5306626574562095947
+    second: Adrian Animation Sheet_175
+  - first:
+      213: 7406331877378828260
+    second: Adrian Animation Sheet_176
+  - first:
+      213: 5577444072149996903
+    second: Adrian Animation Sheet_177
+  - first:
+      213: -2772586593556814001
+    second: Adrian Animation Sheet_178
+  - first:
+      213: -4887423693213935626
+    second: Adrian Animation Sheet_179
+  - first:
+      213: -3628961980704040066
+    second: Adrian Animation Sheet_180
+  - first:
+      213: 7458326529955640346
+    second: Adrian Animation Sheet_181
+  - first:
+      213: 2687981211773600020
+    second: Adrian Animation Sheet_182
+  - first:
+      213: 7621328361907576474
+    second: Adrian Animation Sheet_183
+  - first:
+      213: -9079299424875411491
+    second: Adrian Animation Sheet_184
+  - first:
+      213: -8634058895754583307
+    second: Adrian Animation Sheet_185
+  - first:
+      213: -8993461373084748180
+    second: Adrian Animation Sheet_186
+  - first:
+      213: -7387861414948293296
+    second: Adrian Animation Sheet_187
+  - first:
+      213: -4204069720156054752
+    second: Adrian Animation Sheet_188
+  - first:
+      213: -8725741572273347757
+    second: Adrian Animation Sheet_189
+  - first:
+      213: 5897921270357377900
+    second: Adrian Animation Sheet_190
+  - first:
+      213: -5603926561524652634
+    second: Adrian Animation Sheet_191
+  - first:
+      213: -4543869656124030538
+    second: Adrian Animation Sheet_192
+  - first:
+      213: -4406695032132833993
+    second: Adrian Animation Sheet_193
+  - first:
+      213: 6390633117962606357
+    second: Adrian Animation Sheet_194
+  - first:
+      213: -1735874100258916458
+    second: Adrian Animation Sheet_195
+  - first:
+      213: 741720180850144017
+    second: Adrian Animation Sheet_196
+  - first:
+      213: 2129175644646447365
+    second: Adrian Animation Sheet_197
+  - first:
+      213: 2283385419604969467
+    second: Adrian Animation Sheet_198
+  - first:
+      213: 4663633577662951752
+    second: Adrian Animation Sheet_199
+  - first:
+      213: -8683484231592260227
+    second: Adrian Animation Sheet_200
+  - first:
+      213: 3759839711684163717
+    second: Adrian Animation Sheet_201
+  - first:
+      213: 1632088760055599442
+    second: Adrian Animation Sheet_202
+  - first:
+      213: 2592633860859557175
+    second: Adrian Animation Sheet_203
+  - first:
+      213: -8328880333244090195
+    second: Adrian Animation Sheet_204
+  - first:
+      213: -1927926277359907209
+    second: Adrian Animation Sheet_205
+  - first:
+      213: -5688699781756263628
+    second: Adrian Animation Sheet_206
+  - first:
+      213: -390318065426640766
+    second: Adrian Animation Sheet_207
+  - first:
+      213: -4888316861748276131
+    second: Adrian Animation Sheet_208
+  - first:
+      213: -5968481897653532751
+    second: Adrian Animation Sheet_209
+  - first:
+      213: -5341075893030492257
+    second: Adrian Animation Sheet_210
+  - first:
+      213: 5121612289781110119
+    second: Adrian Animation Sheet_211
+  - first:
+      213: 4042731930540067167
+    second: Adrian Animation Sheet_212
+  - first:
+      213: -7816624629654005965
+    second: Adrian Animation Sheet_213
+  - first:
+      213: 5617571940510744245
+    second: Adrian Animation Sheet_214
+  - first:
+      213: -6842503885011564125
+    second: Adrian Animation Sheet_215
+  - first:
+      213: -4100882132683169208
+    second: Adrian Animation Sheet_216
+  - first:
+      213: 5641007842096818900
+    second: Adrian Animation Sheet_217
+  - first:
+      213: 4798843725927037792
+    second: Adrian Animation Sheet_218
+  - first:
+      213: 8297267046167368564
+    second: Adrian Animation Sheet_219
+  - first:
+      213: -8019880108499777932
+    second: Adrian Animation Sheet_220
+  - first:
+      213: 7713866685300937502
+    second: Adrian Animation Sheet_221
+  - first:
+      213: 7269393548811947346
+    second: Adrian Animation Sheet_222
+  - first:
+      213: -6439476298784417080
+    second: Adrian Animation Sheet_223
+  - first:
+      213: -2466905676484875909
+    second: Adrian Animation Sheet_224
+  - first:
+      213: -2748570187152701268
+    second: Adrian Animation Sheet_225
+  - first:
+      213: 7885049577413277079
+    second: Adrian Animation Sheet_226
+  - first:
+      213: -2013076574820294439
+    second: Adrian Animation Sheet_227
+  - first:
+      213: -1133297866662079410
+    second: Adrian Animation Sheet_228
+  - first:
+      213: 4559967918623453521
+    second: Adrian Animation Sheet_229
+  - first:
+      213: -5035733208451812684
+    second: Adrian Animation Sheet_230
+  - first:
+      213: -7058241082612564765
+    second: Adrian Animation Sheet_231
+  - first:
+      213: -5467619544837432923
+    second: Adrian Animation Sheet_232
+  - first:
+      213: 5041784426394476085
+    second: Adrian Animation Sheet_233
+  - first:
+      213: -618904054696677857
+    second: Adrian Animation Sheet_234
+  - first:
+      213: 5408027140727060572
+    second: Adrian Animation Sheet_235
+  - first:
+      213: -3936564468454983625
+    second: Adrian Animation Sheet_236
+  - first:
+      213: 6116092929088656241
+    second: Adrian Animation Sheet_237
+  - first:
+      213: -7090272955646637197
+    second: Adrian Animation Sheet_238
+  - first:
+      213: -1500026304336225720
+    second: Adrian Animation Sheet_239
+  - first:
+      213: -6168475787836669939
+    second: Adrian Animation Sheet_240
+  - first:
+      213: 7043333344192156123
+    second: Adrian Animation Sheet_241
+  - first:
+      213: -8343502607803804812
+    second: Adrian Animation Sheet_242
+  - first:
+      213: 8104401713447031326
+    second: Adrian Animation Sheet_243
+  - first:
+      213: 1473486551574416161
+    second: Adrian Animation Sheet_244
+  - first:
+      213: -6857183125690165536
+    second: Adrian Animation Sheet_245
+  - first:
+      213: 4968788181174678455
+    second: Adrian Animation Sheet_246
+  - first:
+      213: 4793619237728615285
+    second: Adrian Animation Sheet_247
+  - first:
+      213: -6447443688371006904
+    second: Adrian Animation Sheet_248
+  - first:
+      213: 1666919137533365210
+    second: Adrian Animation Sheet_249
+  - first:
+      213: -4938343585785375718
+    second: Adrian Animation Sheet_250
+  - first:
+      213: 6570491194062440442
+    second: Adrian Animation Sheet_251
+  - first:
+      213: 5428083091166820309
+    second: Adrian Animation Sheet_252
+  - first:
+      213: 3681982641670672988
+    second: Adrian Animation Sheet_253
+  - first:
+      213: 5176959001497406444
+    second: Adrian Animation Sheet_254
+  - first:
+      213: 1979511235760286637
+    second: Adrian Animation Sheet_255
+  - first:
+      213: -601679747600671156
+    second: Adrian Animation Sheet_256
+  - first:
+      213: 7915608630682835583
+    second: Adrian Animation Sheet_257
+  - first:
+      213: 3163156135978065710
+    second: Adrian Animation Sheet_258
+  - first:
+      213: -5930218352221080433
+    second: Adrian Animation Sheet_259
+  - first:
+      213: -5298084846188701869
+    second: Adrian Animation Sheet_260
+  - first:
+      213: 1731604397491387137
+    second: Adrian Animation Sheet_261
+  - first:
+      213: 4153957326331694593
+    second: Adrian Animation Sheet_262
+  - first:
+      213: 1628378554917190363
+    second: Adrian Animation Sheet_263
+  - first:
+      213: 6708396245586571302
+    second: Adrian Animation Sheet_264
+  - first:
+      213: -3232599176002588276
+    second: Adrian Animation Sheet_265
+  - first:
+      213: 2461797999550561355
+    second: Adrian Animation Sheet_266
+  - first:
+      213: -3402861574918436682
+    second: Adrian Animation Sheet_267
+  - first:
+      213: 7182996095251626412
+    second: Adrian Animation Sheet_268
+  - first:
+      213: -5073615096218370566
+    second: Adrian Animation Sheet_269
+  - first:
+      213: -2941366639359500056
+    second: Adrian Animation Sheet_270
+  - first:
+      213: -6378232551485799873
+    second: Adrian Animation Sheet_271
+  - first:
+      213: 4185945892056150684
+    second: Adrian Animation Sheet_272
+  - first:
+      213: 4693451384476546085
+    second: Adrian Animation Sheet_273
+  - first:
+      213: -338564344083384472
+    second: Adrian Animation Sheet_274
+  - first:
+      213: 2965736421799034684
+    second: Adrian Animation Sheet_275
+  - first:
+      213: 5857438909513145984
+    second: Adrian Animation Sheet_276
+  - first:
+      213: -531850548361157954
+    second: Adrian Animation Sheet_277
+  - first:
+      213: -46200077846745257
+    second: Adrian Animation Sheet_278
+  - first:
+      213: -4694155533049297647
+    second: Adrian Animation Sheet_279
+  - first:
+      213: 6518825697094033204
+    second: Adrian Animation Sheet_280
+  - first:
+      213: -330018934992487789
+    second: Adrian Animation Sheet_281
+  - first:
+      213: 6688910814799172144
+    second: Adrian Animation Sheet_282
+  - first:
+      213: -1284554649574259294
+    second: Adrian Animation Sheet_283
+  - first:
+      213: -5253124756474191568
+    second: Adrian Animation Sheet_284
+  - first:
+      213: -8343362043058243307
+    second: Adrian Animation Sheet_285
+  - first:
+      213: 5033727871400658076
+    second: Adrian Animation Sheet_286
+  - first:
+      213: -5685398735417947986
+    second: Adrian Animation Sheet_287
+  - first:
+      213: -7630692927648114111
+    second: Adrian Animation Sheet_288
+  - first:
+      213: 4683726456291911942
+    second: Adrian Animation Sheet_289
+  - first:
+      213: 2178089078188772734
+    second: Adrian Animation Sheet_290
+  - first:
+      213: 5289365358051413289
+    second: Adrian Animation Sheet_291
+  - first:
+      213: 1306291713260864448
+    second: Adrian Animation Sheet_292
+  - first:
+      213: 6368012699709672743
+    second: Adrian Animation Sheet_293
+  - first:
+      213: -3421231802038402241
+    second: Adrian Animation Sheet_294
+  - first:
+      213: -2955408989714784952
+    second: Adrian Animation Sheet_295
+  - first:
+      213: -5878753989492783708
+    second: Adrian Animation Sheet_296
+  - first:
+      213: -880326466278560647
+    second: Adrian Animation Sheet_297
+  - first:
+      213: -62339843115352479
+    second: Adrian Animation Sheet_298
+  - first:
+      213: -3844755930836838597
+    second: Adrian Animation Sheet_299
+  - first:
+      213: -6620650357602906575
+    second: Adrian Animation Sheet_300
+  - first:
+      213: -4402442349521919845
+    second: Adrian Animation Sheet_301
+  - first:
+      213: -3331319268803524440
+    second: Adrian Animation Sheet_302
+  - first:
+      213: -5037556199014279082
+    second: Adrian Animation Sheet_303
+  - first:
+      213: -2960350992424825077
+    second: Adrian Animation Sheet_304
+  - first:
+      213: -4272128659233677688
+    second: Adrian Animation Sheet_305
+  - first:
+      213: -4443784709851734168
+    second: Adrian Animation Sheet_306
+  - first:
+      213: 37430613382265789
+    second: Adrian Animation Sheet_307
+  - first:
+      213: 7779461041309458821
+    second: Adrian Animation Sheet_308
+  - first:
+      213: 5897558020449351303
+    second: Adrian Animation Sheet_309
+  - first:
+      213: -4449461410297615054
+    second: Adrian Animation Sheet_310
+  - first:
+      213: 5646439364279632647
+    second: Adrian Animation Sheet_311
+  - first:
+      213: -6250968044991444869
+    second: Adrian Animation Sheet_312
+  - first:
+      213: 5825006199582563492
+    second: Adrian Animation Sheet_313
+  - first:
+      213: -565907300779681241
+    second: Adrian Animation Sheet_314
+  - first:
+      213: 5683867266791275462
+    second: Adrian Animation Sheet_315
+  - first:
+      213: -190642804789295780
+    second: Adrian Animation Sheet_316
+  - first:
+      213: 1347891778700749210
+    second: Adrian Animation Sheet_317
+  - first:
+      213: 3837638057397486335
+    second: Adrian Animation Sheet_318
+  - first:
+      213: -3772991152864495112
+    second: Adrian Animation Sheet_319
+  - first:
+      213: -4234256820118772365
+    second: Adrian Animation Sheet_320
+  - first:
+      213: 1426453863590198698
+    second: Adrian Animation Sheet_321
+  - first:
+      213: 8751513041037034650
+    second: Adrian Animation Sheet_322
+  - first:
+      213: -7759820356541914261
+    second: Adrian Animation Sheet_323
+  - first:
+      213: -681932531926599686
+    second: Adrian Animation Sheet_324
+  - first:
+      213: -368723507422435085
+    second: Adrian Animation Sheet_325
+  - first:
+      213: 1449708509717772100
+    second: Adrian Animation Sheet_326
+  - first:
+      213: -7884385658224700222
+    second: Adrian Animation Sheet_327
+  - first:
+      213: 5918230557835943461
+    second: Adrian Animation Sheet_328
+  - first:
+      213: 2552981286937096369
+    second: Adrian Animation Sheet_329
+  - first:
+      213: -19196472470330154
+    second: Adrian Animation Sheet_330
+  - first:
+      213: -9048080134867989808
+    second: Adrian Animation Sheet_331
+  - first:
+      213: 3364564710121570240
+    second: Adrian Animation Sheet_332
+  - first:
+      213: 4778397042095310504
+    second: Adrian Animation Sheet_333
+  - first:
+      213: -8934574904447014674
+    second: Adrian Animation Sheet_334
+  - first:
+      213: -6686795771463507487
+    second: Adrian Animation Sheet_335
+  - first:
+      213: -4789589257759608240
+    second: Adrian Animation Sheet_336
+  - first:
+      213: 4835658563357226468
+    second: Adrian Animation Sheet_337
+  - first:
+      213: -5730371652993810370
+    second: Adrian Animation Sheet_338
+  - first:
+      213: -3400901217184774298
+    second: Adrian Animation Sheet_339
+  - first:
+      213: -6410877192755695358
+    second: Adrian Animation Sheet_340
+  - first:
+      213: 3114934627741404430
+    second: Adrian Animation Sheet_341
+  - first:
+      213: 5951271190390887245
+    second: Adrian Animation Sheet_342
+  - first:
+      213: -4167696250679650888
+    second: Adrian Animation Sheet_343
+  - first:
+      213: 5760560040257212409
+    second: Adrian Animation Sheet_344
+  - first:
+      213: -7305868974697340404
+    second: Adrian Animation Sheet_345
+  - first:
+      213: 9115449116766443248
+    second: Adrian Animation Sheet_346
+  - first:
+      213: -6021853797363940001
+    second: Adrian Animation Sheet_347
+  - first:
+      213: -8302131359937128984
+    second: Adrian Animation Sheet_348
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adrian_Walk_Right_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3408
+        width: 460
+        height: 688
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a393088a28b8cde44a002e9409dfbe1d
+      internalID: -829974380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Walk_Right_1
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 3408
+        width: 460
+        height: 688
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8a7e4346c961744941aaf7a4e045e5
+      internalID: 1356855975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Walk_Right_2
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 3408
+        width: 460
+        height: 688
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc47191abbe585439805d9c20fd6aa0
+      internalID: 1798507397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Walk_Right_3
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 3408
+        width: 460
+        height: 688
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d483c0824511e0248bd0c94611900dcf
+      internalID: 807059772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Idle_Left_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2684
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39a4d951661930409d4544bfbfdbf79
+      internalID: 1047634081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Idle_Left_1
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2684
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140c0e40a7c47804e9a8f3a1f258fc42
+      internalID: 84041214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Idle_Left_2
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 2684
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb3242fb7f43ae4a9503107497c5a1d
+      internalID: -24456548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Idle_Left_3
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 2684
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194b1c2c5f60ec342a1f33780802b7ef
+      internalID: 1441741858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Idle_Up_0
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 2693
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63b5fa145613dd46918e0edcfed142a
+      internalID: 40266228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Idle_Up_1
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 2693
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854687d2844898a47a6273b9dab45962
+      internalID: -1878332730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Idle_Up_2
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 2693
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03e4eca400d14343816dd48b1ffff4b
+      internalID: -1714565522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Idle_Up_3
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2693
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799fb1bf80104ad4f8e0ef2e195499bf
+      internalID: -813566535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Idle_Right_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1965
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2b2be7eba2ee843b5e4b43acd5a8ef
+      internalID: 193261202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Idle_Right_1
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1965
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9582e72ec454f148821a4ca1a38590f
+      internalID: -1704444090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Idle_Right_2
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1965
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f97446cf4a6de74da14c51f3148a8e5
+      internalID: -125462256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Idle_Right_3
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1965
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e53af916d6dc647927a24374f38164
+      internalID: -830327603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Idle_Down_0
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1980
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1550ec86a4336c4fa6ca668ab01264c
+      internalID: -818934923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Idle_Down_1
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 1980
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbde42edb84abb4ab545ceb98fc2b67
+      internalID: 1396958980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Idle_Down_2
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 1980
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f4d36a884140440835ba6e043e368b
+      internalID: -2144347180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Idle_Down_3
+      rect:
+        serializedVersion: 2
+        x: 3706
+        y: 1980
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69e4194d931d0945bef7d880405c150
+      internalID: -173889742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Walk_Left_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1244
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a604d27cf9515418d8dcd87e652e13
+      internalID: -2119033143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Walk_Left_1
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1244
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142d0dc337e5b0044bb3e44d90c9c08b
+      internalID: 136370403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Walk_Left_2
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1244
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70901dcb26c716a40a6efcffee596c18
+      internalID: 537372655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Walk_Left_3
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1244
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f0ca7909106ed4e931d1909f8a8bce
+      internalID: 1943162881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Walk_Down_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 540
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceda201fab63d634d83c3dc4c0bf927f
+      internalID: -1387389781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Walk_Down_1
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 540
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f224d7ea244b048bdb9ed370241d47
+      internalID: 2133138375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Walk_Down_2
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 540
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e52a6aa5892c0459b7d4cef148d15e
+      internalID: 260570756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Walk_Down_3
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 540
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7921609cbb4b33e469d33c7b3baed5bb
+      internalID: 143796157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Walk_Up_0
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 556
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673d81c6fdc02ec44aa9d6007036ea1a
+      internalID: 76424562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Walk_Up_1
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 556
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15acf98fb3051041a70afbc44b8fc60
+      internalID: 1584346956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Walk_Up_2
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 556
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ee9a019afa41d41ae3a394aa621297
+      internalID: 1033192581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adrian_Walk_Up_3
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 556
+        width: 460
+        height: 700
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535d2ec58696ceb4c9d1fd3bb7490b83
+      internalID: 1794874942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2a8ca753fdf691f458ee402ab3c0ca36
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Adrian_Idle_Down_0: -818934923
+      Adrian_Idle_Down_1: 1396958980
+      Adrian_Idle_Down_2: -2144347180
+      Adrian_Idle_Down_3: -173889742
+      Adrian_Idle_Left_0: 1047634081
+      Adrian_Idle_Left_1: 84041214
+      Adrian_Idle_Left_2: -24456548
+      Adrian_Idle_Left_3: 1441741858
+      Adrian_Idle_Right_0: 193261202
+      Adrian_Idle_Right_1: -1704444090
+      Adrian_Idle_Right_2: -125462256
+      Adrian_Idle_Right_3: -830327603
+      Adrian_Idle_Up_0: 40266228
+      Adrian_Idle_Up_1: -1878332730
+      Adrian_Idle_Up_2: -1714565522
+      Adrian_Idle_Up_3: -813566535
+      Adrian_Walk_Down_0: -1387389781
+      Adrian_Walk_Down_1: 2133138375
+      Adrian_Walk_Down_2: 260570756
+      Adrian_Walk_Down_3: 143796157
+      Adrian_Walk_Left_0: -2119033143
+      Adrian_Walk_Left_1: 136370403
+      Adrian_Walk_Left_2: 537372655
+      Adrian_Walk_Left_3: 1943162881
+      Adrian_Walk_Right_0: -829974380
+      Adrian_Walk_Right_1: 1356855975
+      Adrian_Walk_Right_2: 1798507397
+      Adrian_Walk_Right_3: 807059772
+      Adrian_Walk_Up_0: 76424562
+      Adrian_Walk_Up_1: 1584346956
+      Adrian_Walk_Up_2: 1033192581
+      Adrian_Walk_Up_3: 1794874942
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

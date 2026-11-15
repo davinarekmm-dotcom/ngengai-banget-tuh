@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 395aafa4da7747448830bc1e898bd697
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1942542412614511175
+    second: ch2_ev_footprints_decal_0
+  - first:
+      213: 764717848102067623
+    second: ch2_ev_footprints_decal_1
+  - first:
+      213: -5774058402157029586
+    second: ch2_ev_footprints_decal_2
+  - first:
+      213: -4868507690956477362
+    second: ch2_ev_footprints_decal_3
+  - first:
+      213: -1102933941038914265
+    second: ch2_ev_footprints_decal_4
+  - first:
+      213: -2504323746846662441
+    second: ch2_ev_footprints_decal_5
+  - first:
+      213: -9085603802148849358
+    second: ch2_ev_footprints_decal_6
+  - first:
+      213: 7654137803307734798
+    second: ch2_ev_footprints_decal_7
+  - first:
+      213: -3641240841864469028
+    second: ch2_ev_footprints_decal_8
+  - first:
+      213: -5385843065861711350
+    second: ch2_ev_footprints_decal_9
+  - first:
+      213: -2086669097711151149
+    second: ch2_ev_footprints_decal_10
+  - first:
+      213: 7932642592494632329
+    second: ch2_ev_footprints_decal_11
+  - first:
+      213: -2994925195316994024
+    second: ch2_ev_footprints_decal_12
+  - first:
+      213: -2308949118564778948
+    second: ch2_ev_footprints_decal_13
+  - first:
+      213: 6106930077768416152
+    second: ch2_ev_footprints_decal_14
+  - first:
+      213: -898106710212627744
+    second: ch2_ev_footprints_decal_15
+  - first:
+      213: 6557356553975888298
+    second: ch2_ev_footprints_decal_16
+  - first:
+      213: -7314899930923014297
+    second: ch2_ev_footprints_decal_17
+  - first:
+      213: -639507443376841474
+    second: ch2_ev_footprints_decal_18
+  - first:
+      213: 6990503899268669427
+    second: ch2_ev_footprints_decal_19
+  - first:
+      213: 746731923445900329
+    second: ch2_ev_footprints_decal_20
+  - first:
+      213: 1794413226759726725
+    second: ch2_ev_footprints_decal_21
+  - first:
+      213: -5621686407872980835
+    second: ch2_ev_footprints_decal_22
+  - first:
+      213: -2565517270948094253
+    second: ch2_ev_footprints_decal_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 540
+        width: 176
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b55bfeb7f3ba05e0800000000000000
+      internalID: -1942542412614511175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_1
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 541
+        width: 177
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad5689c4d2dc9a00800000000000000
+      internalID: 764717848102067623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_2
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 906
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27121bb97c6edfa0800000000000000
+      internalID: -5774058402157029586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_3
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 945
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c284eac069f6cb0800000000000000
+      internalID: -4868507690956477362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_4
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 928
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72567a99c6791b0f0800000000000000
+      internalID: -1102933941038914265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_5
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 542
+        width: 171
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d021aa12dade3dd0800000000000000
+      internalID: -2504323746846662441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 914
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239baf2ca7379e180800000000000000
+      internalID: -9085603802148849358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_7
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 897
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07db0c57c5f83a60800000000000000
+      internalID: 7654137803307734798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 405
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd526071fb6b77dc0800000000000000
+      internalID: -3641240841864469028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 431
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0adf4b5444a145b0800000000000000
+      internalID: -5385843065861711350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 397
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d75423e289aa03e0800000000000000
+      internalID: -2086669097711151149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_11
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 407
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98db6cfa868661e60800000000000000
+      internalID: 7932642592494632329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_12
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 418
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81063441763ef66d0800000000000000
+      internalID: -2994925195316994024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_13
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 398
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cbe7f8207f4ffd0800000000000000
+      internalID: -2308949118564778948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_14
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 403
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bf881cc8c20c450800000000000000
+      internalID: 6106930077768416152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_15
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 441
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2b16794b84983f0800000000000000
+      internalID: -898106710212627744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_16
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 425
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9ff412b09600b50800000000000000
+      internalID: 6557356553975888298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 31
+        width: 172
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767edc1d4414c7a90800000000000000
+      internalID: -7314899930923014297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 389
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc1e465e530027f0800000000000000
+      internalID: -639507443376841474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_19
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 30
+        width: 172
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff54e45242430160800000000000000
+      internalID: 6990503899268669427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 390
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924ef6f5abcec5a00800000000000000
+      internalID: 746731923445900329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_21
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 186
+        width: 166
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586a641925907e810800000000000000
+      internalID: 1794413226759726725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_22
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 403
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98d61c3ff1cbf1b0800000000000000
+      internalID: -5621686407872980835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ch2_ev_footprints_decal_23
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 38
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de520082a3756cd0800000000000000
+      internalID: -2565517270948094253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ch2_ev_footprints_decal_0: -1942542412614511175
+      ch2_ev_footprints_decal_1: 764717848102067623
+      ch2_ev_footprints_decal_10: -2086669097711151149
+      ch2_ev_footprints_decal_11: 7932642592494632329
+      ch2_ev_footprints_decal_12: -2994925195316994024
+      ch2_ev_footprints_decal_13: -2308949118564778948
+      ch2_ev_footprints_decal_14: 6106930077768416152
+      ch2_ev_footprints_decal_15: -898106710212627744
+      ch2_ev_footprints_decal_16: 6557356553975888298
+      ch2_ev_footprints_decal_17: -7314899930923014297
+      ch2_ev_footprints_decal_18: -639507443376841474
+      ch2_ev_footprints_decal_19: 6990503899268669427
+      ch2_ev_footprints_decal_2: -5774058402157029586
+      ch2_ev_footprints_decal_20: 746731923445900329
+      ch2_ev_footprints_decal_21: 1794413226759726725
+      ch2_ev_footprints_decal_22: -5621686407872980835
+      ch2_ev_footprints_decal_23: -2565517270948094253
+      ch2_ev_footprints_decal_3: -4868507690956477362
+      ch2_ev_footprints_decal_4: -1102933941038914265
+      ch2_ev_footprints_decal_5: -2504323746846662441
+      ch2_ev_footprints_decal_6: -9085603802148849358
+      ch2_ev_footprints_decal_7: 7654137803307734798
+      ch2_ev_footprints_decal_8: -3641240841864469028
+      ch2_ev_footprints_decal_9: -5385843065861711350
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
